@@ -144,8 +144,8 @@ This repository is licensed under the [MIT License](LICENSE).
 
 For any questions or inquiries, please feel free to contact me at:
 
-- Email: [your.email@example.com](mailto:jeffmbita69@gmail.com)
-- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/jeff-mbita-a91672241/)
+- Email: Jeffmbita69@gmail.com(mailto:jeffmbita69@gmail.com)
+- LinkedIn: JeffMbita(https://www.linkedin.com/in/jeff-mbita-a91672241/)
 
 ---
 
