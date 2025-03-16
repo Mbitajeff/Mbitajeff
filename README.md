@@ -8,7 +8,8 @@
 - CI/CD Automation & DevOps 🔄  
 
 🌱 **Currently Learning:**  
-- Advanced Serverless Applications  
+- Advanced Serverless Applications
+- Software Engineering
 - Kubernetes & Container Orchestration  
 
 📫 **Let's Connect!**  
@@ -96,51 +97,6 @@ The migration process involved creating a secure and scalable solution that prot
 2. Review the architecture and migration steps in the project documentation.
 3. Follow the deployment and configuration scripts to move the system to AWS.
 4. Ensure that all IAM roles and policies are configured properly for enhanced security.
-
-## Setup and Installation
-
-To get started with the code in this repository, follow these general installation steps:
-
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/Mbitajeff/cloud-engineer-repo.git
-```
-
-2. **Install prerequisites:**
-
-   - AWS CLI
-   - Terraform (for IaC)
-   - Docker (for containerized applications)
-   - Kubernetes (if applicable)
-   - Jenkins or AWS CodePipeline (for CI/CD)
-
-3. **Configure your cloud environment:**
-
-   - Set up your AWS credentials using the `aws configure` command.
-   - Set up the required AWS services based on project-specific instructions.
-
-4. **Run the setup scripts or manual steps as outlined in individual project directories.**
-
-## Usage
-
-Each project in this repository contains detailed usage instructions in its respective directory. Follow the documentation provided with each project to deploy, configure, or troubleshoot the cloud environments.
-
-## Contributing
-
-Contributions are welcome! If you have suggestions, improvements, or bug fixes, feel free to fork the repository and create a pull request.
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-name`).
-5. Open a pull request.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
-
-## Contact
 
 For any questions or inquiries, please feel free to contact me at:
 
