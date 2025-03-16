@@ -1,23 +1,23 @@
-Hi 😊 
-Welcome to my Cloud Engineering GitHub repository! This is where I showcase various cloud infrastructure projects, with a focus on AWS services, migration strategies, and scalable solutions. Below you will find a collection of real-world projects I've worked on, demonstrating my expertise in cloud architecture, automation, and security best practices.
+# 👋 Hi, I'm Jeff Mbita! 
+🏗️ Cloud Engineer | 🖥️ DevOps Enthusiast | 🐍 Python Developer  
 
-## Table of Contents
+🚀 **Passionate about:**  
+- AWS Cloud Computing ☁️  
+- Serverless Architectures (AWS Lambda, DynamoDB)  
+- Infrastructure as Code (Terraform, CloudFormation)  
+- CI/CD Automation & DevOps 🔄  
 
-- [About](#about)
-- [Technologies Used](#technologies-used)
-- [Projects](#projects)
-  - [Building a Well-Architected Microservices Application and CI/CD Pipeline with AWS Services](#building-a-well-architected-microservices-application-and-cicd-pipeline-with-aws-services)
-  - [Andy’s Car Auction Migration into AWS Cloud](#andys-car-auction-migration-into-aws-cloud)
-  - [Migrating and Securing Classroom Infrastructure on AWS for Scalable and Secure CS Department Operations](#migrating-and-securing-classroom-infrastructure-on-aws-for-scalable-and-secure-cs-department-operations)
-- [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+🌱 **Currently Learning:**  
+- Advanced Serverless Applications  
+- Kubernetes & Container Orchestration  
 
-## About
+📫 **Let's Connect!**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jeffmbita)  
+- 🔗 [Medium Blog](https://medium.com/@Mbitajeff)  
 
-As a Cloud Engineer, I specialize in designing and deploying secure, scalable, and cost-effective solutions on cloud platforms, particularly AWS. This repository highlights my work on various cloud migrations, including microservices applications, enterprise systems, and university infrastructure.
+📊 **GitHub Stats:**  
+![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mbitajeff&show_icons=true&theme=radical)  
+![Header](https://your-image-url.com)
 
 The projects here focus on:
 
@@ -146,7 +146,3 @@ For any questions or inquiries, please feel free to contact me at:
 
 - Email: Jeffmbita69@gmail.com(mailto:jeffmbita69@gmail.com)
 - LinkedIn: JeffMbita(https://www.linkedin.com/in/jeff-mbita-a91672241/)
-
----
-
-Feel free to modify any section to suit the specific tools or services you’ve used in these projects! This format highlights the core projects and gives a professional overview of your cloud engineering skills.
