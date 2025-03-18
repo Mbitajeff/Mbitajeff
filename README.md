@@ -1,104 +1,92 @@
 # 👋 Hi, I'm Jeff Mbita! 
-🏗️ Cloud Engineer | 🖥️ DevOps Enthusiast | 🐍 Python Developer  
 
-🚀 **Passionate about:**  
-- AWS Cloud Computing ☁️  
-- Serverless Architectures (AWS Lambda, DynamoDB)  
-- Infrastructure as Code (Terraform, CloudFormation)  
-- CI/CD Automation & DevOps 🔄  
+### ☁️ **Cloud Engineer** | 🛠️ **DevOps Enthusiast** | 🐍 **Python Developer**  
+🌟 Passionate about building **scalable, secure, and efficient cloud solutions** that drive innovation and business growth.  
 
-🌱 **Currently Learning:**  
-- Advanced Serverless Applications
-- Software Engineering
-- Kubernetes & Container Orchestration  
+---
 
-📫 **Let's Connect!**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jeffmbita)  
-- 🔗 [Medium Blog](https://medium.com/@Mbitajeff)  
+## 🚀 **What I Do**
 
-📊 **GitHub Stats:**  
-![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mbitajeff&show_icons=true&theme=radical)  
-![Header](https://your-image-url.com)
+I specialize in:  
+- **Cloud-Native Architectures**: Designing and deploying microservices, serverless applications, and containerized environments.  
+- **Infrastructure as Code (IaC)**: Automating cloud infrastructure with **Terraform** and **CloudFormation**.  
+- **CI/CD Pipelines**: Building robust pipelines for seamless deployments using **AWS CodePipeline**, **Jenkins**, and **GitLab CI**.  
+- **Cloud Security**: Implementing secure architectures with **IAM**, **KMS**, and **AWS WAF**.  
+- **High Availability & Disaster Recovery**: Ensuring systems are resilient and always available.  
 
-The projects here focus on:
+---
 
-- Cloud-native architectures (Microservices, Serverless)
-- CI/CD pipelines for continuous deployment
-- Infrastructure automation with Infrastructure as Code (IaC)
-- Cloud migration strategies and security
-- High availability and disaster recovery planning
+## 🛠️ **Technologies & Tools**
 
-## Technologies Used
+### **Cloud Platforms**  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-- **Cloud Platforms**: AWS (EC2, S3, Lambda, ECS, RDS, etc.), CloudFormation, IAM, VPC
-- **CI/CD**: AWS CodePipeline, Jenkins, GitLab CI
-- **Automation & IaC**: Terraform, CloudFormation
-- **Containerization**: Docker, Kubernetes, ECS
-- **Security**: AWS WAF, IAM Policies, KMS
-- **Monitoring & Logging**: CloudWatch, Prometheus, Grafana
-- **Scripting**: Python, Bash
+### **DevOps Tools**  
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
-## Projects
+### **Monitoring & Logging**  
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-%23FF4F8B.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Building a Well-Architected Microservices Application and CI/CD Pipeline with AWS Services
+### **Programming & Scripting**  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-This project demonstrates the design and deployment of a **microservices application** using a **well-architected framework** on AWS. The application is deployed using **AWS Elastic Beanstalk** and **ECS (Elastic Container Service)** for scalable containerized environments. The project also includes building a robust **CI/CD pipeline** using **AWS CodePipeline** and **CodeBuild** to automate the entire deployment process.
+---
 
-**Key Features:**
-- Microservices architecture using Docker containers
-- Automated CI/CD pipeline with AWS CodePipeline
-- Infrastructure as Code using Terraform
-- Integration with AWS services: S3, RDS, Elastic Load Balancer (ELB)
-- Secure API Gateway with AWS Lambda and Cognito for authentication
+## 🌟 **Featured Projects**
 
-**How to use:**
-1. Clone the repository.
-2. Configure your AWS credentials using the AWS CLI.
-3. Customize your application configuration in the `terraform/main.tf` file.
-4. Run `terraform apply` to provision the infrastructure.
-5. Use the provided deployment scripts to deploy microservices.
+### 1. **Well-Architected Microservices Application & CI/CD Pipeline on AWS**  
+🚀 Designed and deployed a **microservices application** using **AWS Elastic Beanstalk** and **ECS**. Built a fully automated **CI/CD pipeline** with **AWS CodePipeline** and **CodeBuild**.  
+🔧 **Tech Stack**: AWS (ECS, S3, RDS, ELB), Terraform, Docker, Python  
+📌 [View Project](https://github.com/Mbitajeff/project-1)
 
-### Andy’s Car Auction Migration into AWS Cloud
+### 2. **Andy’s Car Auction Migration to AWS**  
+🏎️ Migrated an on-premise auction platform to AWS, ensuring **scalability**, **security**, and **high availability**.  
+🔧 **Tech Stack**: AWS (EC2, RDS, S3, CloudWatch), Terraform, IAM, KMS  
+📌 [View Project](https://github.com/Mbitajeff/project-2)
 
-**Andy’s Auctions**, a used car auction business, faced difficulties when recent lockdowns reduced the number of customers attending physical auctions. In response, they decided to move their business systems to AWS, establishing a stronger online presence and improving scalability.
+### 3. **Classroom Infrastructure Migration & Security on AWS**  
+🏫 Migrated a university’s CS department infrastructure to AWS, implementing **secure access controls**, **encryption**, and **auto-scaling**.  
+🔧 **Tech Stack**: AWS (EC2, VPC, KMS, IAM), Terraform, CloudWatch  
+📌 [View Project](https://github.com/Mbitajeff/project-3)
 
-This migration project involved transferring the auction platform from on-premise infrastructure to the cloud, ensuring high availability, security, and disaster recovery capabilities.
+---
 
-**Key Features:**
-- **Lift and Shift** migration to AWS for scalable infrastructure
-- **Amazon EC2** instances for backend services
-- **RDS** for secure database hosting
-- **S3** for secure file storage
-- **CloudWatch** for monitoring and alarms
-- **Elastic Load Balancer** for distributing traffic
+## 📊 **GitHub Stats**
 
-**How to use:**
-1. Clone the repository.
-2. Set up your AWS credentials and configure the AWS CLI.
-3. Follow the migration strategy outlined in the project documentation for specific steps on how the auction platform was migrated.
-4. Use CloudFormation or Terraform scripts to replicate the architecture.
+![Jeff's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mbitajeff&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mbitajeff&layout=compact&theme=radical)
 
-### Migrating and Securing Classroom Infrastructure on AWS for Scalable and Secure CS Department Operations
+---
 
-In this project, a university's **Computer Science department** needed to migrate from an aging, insecure, and unreliable on-premise server to a more scalable and secure infrastructure on **AWS**. The infrastructure hosted sensitive data, such as gradebooks, and faced performance challenges due to increased traffic.
+## 🌱 **Currently Learning**  
+- Advanced **Serverless Architectures** (AWS Lambda, DynamoDB)  
+- **Kubernetes** for container orchestration  
+- **Software Engineering** best practices  
 
-The migration process involved creating a secure and scalable solution that protects sensitive data and ensures high availability for web portals and gradebook applications.
+---
 
-**Key Features:**
-- **EC2 instances** for gradebook and web portal hosting
-- Use of **VPC** with proper security group and NACL configurations
-- **AWS KMS** for data encryption
-- **IAM roles** and **AWS Shield** for secure user access
-- **CloudWatch** for monitoring and automated alerts
-- **Auto Scaling** for handling traffic spikes to the web portal
+## 📫 **Let's Connect!**  
+I’m always open to collaborating on exciting projects or discussing cloud and DevOps. Let’s build something amazing together!  
 
-**How to use:**
-1. Clone the repository.
-2. Review the architecture and migration steps in the project documentation.
-3. Follow the deployment and configuration scripts to move the system to AWS.
-4. Ensure that all IAM roles and policies are configured properly for enhanced security.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffmbita)  
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Mbitajeff)  
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeffmbita69@gmail.com)  
 
-For any questions or inquiries, please feel free to contact me at:
+---
 
-- Email: Jeffmbita69@gmail.com(mailto:jeffmbita69@gmail.com)
-- LinkedIn: JeffMbita(https://www.linkedin.com/in/jeff-mbita-a91672241/)
+## 💬 **Fun Fact**  
+When I’m not automating cloud infrastructure, I enjoy [your hobby, e.g., hiking, gaming, or reading tech blogs]. 😄  
+
+---
+
+✨ **Thanks for visiting my profile!** Feel free to explore my projects and reach out if you’d like to collaborate or chat about cloud and DevOps.  
