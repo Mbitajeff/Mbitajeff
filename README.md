@@ -47,7 +47,7 @@ I specialize in:
 ### 1. **Well-Architected Microservices Application & CI/CD Pipeline on AWS**  
 🚀 Designed and deployed a **microservices application** using **AWS Elastic Beanstalk** and **ECS**. Built a fully automated **CI/CD pipeline** with **AWS CodePipeline** and **CodeBuild**.  
 🔧 **Tech Stack**: AWS (ECS, S3, RDS, ELB), Terraform, Docker, Python  
-📌 [View Project]((https://medium.com/@jeffmbita69/building-a-well-architected-microservices-application-and-a-ci-cd-pipeline-with-aws-services-5912fc4f8268))
+📌 [View Project](https://medium.com/@jeffmbita69/building-a-well-architected-microservices-application-and-a-ci-cd-pipeline-with-aws-services-5912fc4f8268)
 
 ### 2. **Andy’s Car Auction Migration to AWS**  
 🏎️ Migrated an on-premise auction platform to AWS, ensuring **scalability**, **security**, and **high availability**.  
