@@ -47,17 +47,17 @@ I specialize in:
 ### 1. **Well-Architected Microservices Application & CI/CD Pipeline on AWS**  
 🚀 Designed and deployed a **microservices application** using **AWS Elastic Beanstalk** and **ECS**. Built a fully automated **CI/CD pipeline** with **AWS CodePipeline** and **CodeBuild**.  
 🔧 **Tech Stack**: AWS (ECS, S3, RDS, ELB), Terraform, Docker, Python  
-📌 [View Project](https://github.com/Mbitajeff/project-1)
+📌 [View Project]((https://medium.com/@jeffmbita69/building-a-well-architected-microservices-application-and-a-ci-cd-pipeline-with-aws-services-5912fc4f8268))
 
 ### 2. **Andy’s Car Auction Migration to AWS**  
 🏎️ Migrated an on-premise auction platform to AWS, ensuring **scalability**, **security**, and **high availability**.  
 🔧 **Tech Stack**: AWS (EC2, RDS, S3, CloudWatch), Terraform, IAM, KMS  
-📌 [View Project](https://github.com/Mbitajeff/project-2)
+📌 [View Project](https://medium.com/@jeffmbita69/andys-car-auction-migration-into-aws-cloud-620c901e5954)
 
 ### 3. **Classroom Infrastructure Migration & Security on AWS**  
 🏫 Migrated a university’s CS department infrastructure to AWS, implementing **secure access controls**, **encryption**, and **auto-scaling**.  
 🔧 **Tech Stack**: AWS (EC2, VPC, KMS, IAM), Terraform, CloudWatch  
-📌 [View Project](https://github.com/Mbitajeff/project-3)
+📌 [View Project](https://medium.com/@jeffmbita69/migrating-and-securing-classroom-infrastructure-on-aws-for-scalable-and-secure-cs-department-f5f57acc843d)
 
 ---
 
@@ -71,7 +71,7 @@ I specialize in:
 ## 🌱 **Currently Learning**  
 - Advanced **Serverless Architectures** (AWS Lambda, DynamoDB)  
 - **Kubernetes** for container orchestration  
-- **Software Engineering** best practices  
+- **Software Engineering** PLP  
 
 ---
 
@@ -85,7 +85,7 @@ I’m always open to collaborating on exciting projects or discussing cloud and 
 ---
 
 ## 💬 **Fun Fact**  
-When I’m not automating cloud infrastructure, I enjoy [your hobby, e.g., hiking, gaming, or reading tech blogs]. 😄  
+When I’m not automating cloud infrastructure, I enjoy [your hobby, Playing Piano. 😄  
 
 ---
 
