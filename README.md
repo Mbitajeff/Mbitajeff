@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jeff Mbita! 
 
-### ☁️ **Cloud Engineer** | 🛠️ **DevOps Enthusiast** | 🐍 **Python Developer**  
+### ☁️ **Data Analyst** | 🛠️ **DevOps Enthusiast** | 🐍 **Cloud Engineer**  
 🌟 Passionate about building **scalable, secure, and efficient cloud solutions** that drive innovation and business growth.  
 
 ---
