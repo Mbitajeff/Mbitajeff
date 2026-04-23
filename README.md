@@ -1,11 +1,17 @@
 # 👋 Hi, I'm Jeff Mbita! 
 
-### ☁️ **Data Analyst** | 🛠️ **DevOps Enthusiast** | 🐍 **Cloud Engineer**  
-🌟 Passionate about building **scalable, secure, and efficient cloud solutions** that drive innovation and business growth.  
+###  **Data Analyst** |  **DevOps Enthusiast** |  **Cloud Engineer**  
+Passionate about building **scalable, secure, and efficient cloud solutions** that drive innovation and business growth. 
+I'm a Cloud Solutions Architect and Software Developer based in Nairobi, Kenya, with a background in Control Engineering. I bridge the gap between infrastructure and data — designing scalable cloud architectures, automating deployments, and building data-driven solutions that solve real-world problems.
+
+  I design and deploy cloud-native systems on AWS, with hands-on experience in serverless, microservices, and containerized environments
+  I build data pipelines, analytics solutions, and ML-integrated workflows
+  I implement secure architectures using IAM, KMS, VPC, and AWS WAF
+  Open to collaborating on cloud, DevOps, and data projects
 
 ---
 
-## 🚀 **What I Do**
+##  **What I Do**
 
 I specialize in:  
 - **Cloud-Native Architectures**: Designing and deploying microservices, serverless applications, and containerized environments.  
@@ -16,7 +22,7 @@ I specialize in:
 
 ---
 
-## 🛠️ **Technologies & Tools**
+##  **Technologies & Tools**
 
 ### **Cloud Platforms**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -42,41 +48,42 @@ I specialize in:
 
 ---
 
-## 🌟 **Featured Projects**
+## **Featured Projects**
 
 ### 1. **Well-Architected Microservices Application & CI/CD Pipeline on AWS**  
-🚀 Designed and deployed a **microservices application** using **AWS Elastic Beanstalk** and **ECS**. Built a fully automated **CI/CD pipeline** with **AWS CodePipeline** and **CodeBuild**.  
-🔧 **Tech Stack**: AWS (ECS, S3, RDS, ELB), Terraform, Docker, Python  
-📌 [View Project](https://medium.com/@jeffmbita69/building-a-well-architected-microservices-application-and-a-ci-cd-pipeline-with-aws-services-5912fc4f8268)
+Designed and deployed a **microservices application** using **AWS Elastic Beanstalk** and **ECS**. Built a fully automated **CI/CD pipeline** with **AWS CodePipeline** and **CodeBuild**.  
+**Tech Stack**: AWS (ECS, S3, RDS, ELB), Terraform, Docker, Python  
+ [View Project](https://medium.com/@jeffmbita69/building-a-well-architected-microservices-application-and-a-ci-cd-pipeline-with-aws-services-5912fc4f8268)
 
 ### 2. **Andy’s Car Auction Migration to AWS**  
-🏎️ Migrated an on-premise auction platform to AWS, ensuring **scalability**, **security**, and **high availability**.  
-🔧 **Tech Stack**: AWS (EC2, RDS, S3, CloudWatch), Terraform, IAM, KMS  
-📌 [View Project](https://medium.com/@jeffmbita69/andys-car-auction-migration-into-aws-cloud-620c901e5954)
+Migrated an on-premise auction platform to AWS, ensuring **scalability**, **security**, and **high availability**.  
+**Tech Stack**: AWS (EC2, RDS, S3, CloudWatch), Terraform, IAM, KMS  
+[View Project](https://medium.com/@jeffmbita69/andys-car-auction-migration-into-aws-cloud-620c901e5954)
 
 ### 3. **Classroom Infrastructure Migration & Security on AWS**  
-🏫 Migrated a university’s CS department infrastructure to AWS, implementing **secure access controls**, **encryption**, and **auto-scaling**.  
-🔧 **Tech Stack**: AWS (EC2, VPC, KMS, IAM), Terraform, CloudWatch  
-📌 [View Project](https://medium.com/@jeffmbita69/migrating-and-securing-classroom-infrastructure-on-aws-for-scalable-and-secure-cs-department-f5f57acc843d)
+Migrated a university’s CS department infrastructure to AWS, implementing **secure access controls**, **encryption**, and **auto-scaling**.  
+**Tech Stack**: AWS (EC2, VPC, KMS, IAM), Terraform, CloudWatch  
+[View Project](https://medium.com/@jeffmbita69/migrating-and-securing-classroom-infrastructure-on-aws-for-scalable-and-secure-cs-department-f5f57acc843d)
 
 ---
 
-## 📊 **GitHub Stats**
+##  **GitHub Stats**
 
 ![Jeff's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mbitajeff&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mbitajeff&layout=compact&theme=radical)
 
 ---
 
-## 🌱 **Currently Learning**  
+##  **Currently Learning**  
 - Advanced **Serverless Architectures** (AWS Lambda, DynamoDB)  
 - **Kubernetes** for container orchestration  
 - **Software Engineering** PLP  
 
 ---
 
-## 📫 **Let's Connect!**  
-I’m always open to collaborating on exciting projects or discussing cloud and DevOps. Let’s build something amazing together!  
+##  **Let's Connect!**  
+I’m always open to collaborating on exciting projects or discussing cloud and DevOps. Thanks for stopping by! Feel free to explore my repos, read my Medium articles, or reach out to collaborate.
+Let’s build something amazing together!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffmbita)  
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Mbitajeff)  
@@ -84,9 +91,9 @@ I’m always open to collaborating on exciting projects or discussing cloud and 
 
 ---
 
-## 💬 **Fun Fact**  
-When I’m not automating cloud infrastructure, I enjoy [your hobby, Playing Piano. 😄  
+##  **Fun Fact**  
+When I’m not automating cloud infrastructure, I enjoy [your hobby, Playing Piano.  
 
 ---
 
-✨ **Thanks for visiting my profile!** Feel free to explore my projects and reach out if you’d like to collaborate or chat about cloud and DevOps.  
+ **Thanks for visiting my profile!** Feel free to explore my projects and reach out if you’d like to collaborate or chat about cloud and DevOps.  
