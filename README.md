@@ -221,14 +221,8 @@ Built **AfyaSmart** (clinic follow-up reminders with CI/CD pipeline), **Little B
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mbitajeff&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mbitajeff&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mbitajeff&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mbitajeff&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&hide=contribs"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mbitajeff&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=aws-agentic-ai-production&hide=html,jupyter%20notebook"/>
 
 </div>
 
