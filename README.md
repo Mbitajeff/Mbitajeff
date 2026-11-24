@@ -59,11 +59,11 @@ I design secure, production-ready systems on AWS, with a focus on **cloud securi
 
 ## 🛠️ Stack
 
-**Cloud and IaC:** AWS · Terraform · CloudFormation
-**Security:** IAM · KMS · GuardDuty · WAF · Semgrep · Trivy · Checkov · Sigstore
-**AI:** Amazon Bedrock · AgentCore · Strands Agents · SageMaker
-**Containers and CI/CD:** Docker · Kubernetes · EKS · ECS · GitHub Actions · CodePipeline
-**Languages:** Python · TypeScript · Bash · SQL
+- **Cloud and IaC:** AWS · Terraform · CloudFormation
+- **Security:** IAM · KMS · GuardDuty · WAF · Semgrep · Trivy · Checkov · Sigstore
+- **AI:** Amazon Bedrock · AgentCore · Strands Agents · SageMaker
+- **Containers and CI/CD:** Docker · Kubernetes · EKS · ECS · GitHub Actions · CodePipeline
+- **Languages:** Python · TypeScript · Bash · SQL
 
 ---
 
